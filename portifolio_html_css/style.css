@@ -1,0 +1,55 @@
+/*tag body*/
+body {
+    padding-top: 50px;
+}
+/*refere-se a classe*/
+.navbar {
+    background-color: #3978e5;
+}
+/*refere-se a classe*/
+.navbar-brand, .navbar-nav .nav-link {
+    color: #DCDCDC;
+}
+/*refere-se a classe*/
+.jumbotron {
+    background-image: url('background.jpg');
+    color: #fff;
+    text-align: center;
+    padding: 100px;
+}
+/*refere-se a classe*/
+.section {
+    padding: 50px 0;
+}
+/*refere-se a classe*/
+.footer {
+    background-color:#3978e5;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+/*tag h1*/
+h1{
+    color: #363636;
+}
+/*tag p*/
+p{
+    color:black;
+    text-align: justify;
+}
+/*refere-se ao id*/
+#paragrafo{
+
+    text-align: center;
+
+}
+/*refere-se ao id*/
+#paragrafo1{
+
+    text-align: center;
+}
+/*tag img*/
+img{
+    
+    width: 300px;
+}
